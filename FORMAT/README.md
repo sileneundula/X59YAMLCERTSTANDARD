@@ -8,8 +8,8 @@ The **Standard X59CERT Format** is as follows:
 
 ```yaml
 ---
+CertType: X59Cert
 RequiredInfo:
-  - Type: X59CERT
   - Sections: (CodeSigning,Encryption)
   
   - Registar: {SmartContract,DAG,SS,Custom}
