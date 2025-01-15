@@ -30,3 +30,7 @@ The consensus protocol **Raft** is used to verify the integrity of the certifica
 ## Method 2: Block Lattice (DAG) For `DX59Registar`
 
 The novel method of using a **dual ledger (blockchain/block lattice system)** for certificate registration is the current focus. It offers many advantages offer prior attempts at certficates. It provides high-value integrity to the certificates by storing them in a blockchain, or more specifically block lattice, to allow decentralized approaches to management of certificates. It can offer smart contract functionality and extensions.
+
+## Method 3: Smart Contract Integration
+
+Smart Contracrt Integration to other systems for certificates offer many advantages such as security and immutability.
